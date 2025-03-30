@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Gift Card",
+    "description": "Use this gift card for Nike shoes or apparel.",
+    "tokenCost": 450,
+    "image": "https://giftoff.com/uploads/cards/6317716c40de7171399951.jpeg",
+    "company": "Nike"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Gift Card",
+    "description": "Redeem at any Adidas online store.",
+    "tokenCost": 350,
+    "image": "https://carddepot.com/storage/brands/09609b4b-e167-401b-835e-7f2ba3791312.png",
+    "company": "Adidas"
+  },
+  {
+    "id": 3,
+    "name": "Lululemon Gift Card",
+    "description": "Valid at any Lululemon store or website.",
+    "tokenCost": 300,
+    "image": "https://carddepot.com/storage/brands/76-lululemon.svg",
+    "company": "Lululemon"
+  },
+  {
+    "id": 4,
+    "name": "Puma Gift Card",
+    "description": "Good for Puma gear and shoes.",
+    "tokenCost": 280,
+    "image": "https://us.puma.com/assets/puma-logo-1200x630.jpg",
+    "company": "Puma"
+  },
+  {
+    "id": 5,
+    "name": "Ralph Lauren Gift Card",
+    "description": "Redeem for luxury Ralph Lauren items.",
+    "tokenCost": 500,
+    "image": "https://carddepot.com/storage/brands/104-ralph-lauren.svg",
+    "company": "Ralph Lauren"
+  },
+  {
+    "id": 6,
+    "name": "Levi's Gift Card",
+    "description": "Get the best Levi\u2019s jeans with this card.",
+    "tokenCost": 200,
+    "image": "https://media.edinburgh.org/wp-content/uploads/2023/04/26161813/thumb_40942_point_of_interest_bigger.jpeg",
+    "company": "Levi's"
+  },
+  {
+    "id": 7,
+    "name": "Under Armour Gift Card",
+    "description": "Great for UA activewear.",
+    "tokenCost": 420,
+    "image": "https://distributedrewards-production.s3.amazonaws.com/uploads/gift_card_logo/468/074f4918-c213-4141-b9dd-179e85cc7d4c.jpg",
+    "company": "Under Armour"
+  },
+  {
+    "id": 8,
+    "name": "Crocs Gift Card",
+    "description": "Comfort and style from Crocs.",
+    "tokenCost": 190,
+    "image": "https://cdn.shopify.com/s/files/1/0502/1414/2112/products/JustBecause-R500-121076.png?v=1692061688",
+    "company": "Crocs"
+  },
+  {
+    "id": 9,
+    "name": "Skechers Gift Card",
+    "description": "Skechers comfort for less.",
+    "tokenCost": 260,
+    "image": "https://assets-us-01.kc-usercontent.com/7af951a6-2a13-004b-f0eb-a87382a5b2e7/5bff76c4-959b-4e8c-9259-857889406a43/Skechers%20eGift%20Card%20Artwork.jpg?fm=png&auto=format&w=2560",
+    "company": "Skechers"
+  }
+]
